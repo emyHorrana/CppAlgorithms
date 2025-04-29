@@ -23,7 +23,7 @@ int main(){
         }
     }
     cout<<fixed<<setprecision(2);
-    cout<<"Media da turma: "<<media<<endl;//saida de dados
+    cout<<"Media da turma: "<<media<<endl;
     cout<<"Alunos com nota acima da media: "<<k<<endl;
     cout<<"Alunos com nota abaixo da media: "<<j<<endl;
     
